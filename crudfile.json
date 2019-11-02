@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "zeba shaikh",
+    "Email": "zeba18@navgurukul.org",
+    "password": "zeba12345"
+  },
+  {
+    "id": 2
+  },
+  {
+    "id": 3,
+    "name": "rashmi kiran",
+    "Email": "rashmi18@navgurukul.org",
+    "password": "rashminavgurukul12345"
+  },
+  {
+    "name": "shwea",
+    "Email": "shweta18@navgurukul.org",
+    "password": "3"
+  },
+  {
+    "name": "shwea",
+    "Email": "shweta18@navgurukul.org",
+    "password": "8"
+  },
+  {
+    "name": "shwea",
+    "Email": "shweta18@navgurukul.org",
+    "password": "8"
+  },
+  {
+    "name": "shwea",
+    "Email": "shweta18@navgurukul.org",
+    "password": "8"
+  },
+  {
+    "name": "kiran",
+    "Email": "kiran@navgurukul.org",
+    "password": "15"
+  },
+  {
+    "name": "kirank",
+    "Email": "kiran@navgurukul.org",
+    "password": "20",
+    "id": 9
+  },
+  {
+    "name": "kirank",
+    "Email": "kiran@navgurukul.org",
+    "password": "20",
+    "id": 10
+  },
+  {
+    "name": "neha",
+    "Email": "neha@navgurukul.org",
+    "password": "20234567",
+    "id": 11
+  },
+  {
+    "name": "neh",
+    "Email": "neha@navgurukul.org",
+    "password": "20234567",
+    "id": 12
+  },
+  {
+    "name": "neh",
+    "Email": "neharukul.org",
+    "password": "20234567"
+  },
+  {
+    "name": "neh",
+    "Email": "neharukul.org",
+    "password": "20234567"
+  }
+]
